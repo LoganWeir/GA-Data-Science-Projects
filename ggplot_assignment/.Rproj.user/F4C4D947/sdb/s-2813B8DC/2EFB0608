@@ -1,0 +1,21 @@
+{
+    "contents" : "",
+    "created" : 1371386977737.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2EFB0608",
+    "lastKnownWriteTime" : 140517268632600,
+    "path" : null,
+    "properties" : {
+        "caption" : "taxes",
+        "contentUrl" : "content?title=taxes&file=2e649d95ac6b4abfb24e5709e1e15fca.htm",
+        "displayedObservations" : 93,
+        "displayedVariables" : 3,
+        "totalObservations" : 93,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
