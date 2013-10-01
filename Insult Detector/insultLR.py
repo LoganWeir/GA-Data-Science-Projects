@@ -59,9 +59,3 @@ for row in predictions:
 	writer.writerow(row)
 
 outfile.close()
-
-
-
-
-
-
